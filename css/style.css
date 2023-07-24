@@ -1,0 +1,29 @@
+body{
+    background: linear-gradient(to right , #5e2985, #d72d9c);
+    font-family: monospace;
+}
+.container{
+    max-width: 100%;
+    padding: 50px 15px;
+    margin-right: auto;
+    margin-left: auto;
+    text-align: center;
+    color: rgba(0, 0, 0, .5);
+    text-transform: uppercase;
+    letter-spacing: .5em;
+}
+.container h1{
+    font-size: 3em;
+}
+.container h2{
+    font-size: 1.em;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+.container h3{
+    text-transform: none;
+    letter-spacing: normal;
+    display: initial;
+    padding: 10px;
+    border-radius: 7px;
+}
